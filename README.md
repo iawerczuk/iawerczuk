@@ -1,6 +1,6 @@
 #### 🙋🏼‍♀️ Hi, I’m Izabela Awerczuk @iawerczuk
 #### 👀 I’m interested in creating sth cool from nothing 
-#### 📚 I’m currently learning frontend (html, css, js, react and all around)
+#### 📚 I’m currently learning frontend (HTML, CSS, JavaScript, React and all around)
 #### 👩🏼‍💻 I’m looking to collaborate as junior frontend developer   
 #### 🙌🏻 Now I'm PT working with orthopaedics 
 ####     https://www.linkedin.com/in/iawerczuk/
